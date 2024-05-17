@@ -29,7 +29,7 @@ const cartItem = useSelector((state)=>state.cartItem.item)
             <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
                 <a href="#" className="flex items-center space-x-3 rtl:space-x-reverse">
                     <img src="logoImg.png" className="h-24 rounded-xl" alt="Flowbite Logo" />
-                    <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">E-Shop</span>
+                    <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"></span>
                 </a>
                 <div className="justify-between w-1/3 md:block md:w-auto" id="navbar-multi-level">
                     <div className=" flex justify-center items-center">
